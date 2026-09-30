@@ -1,0 +1,8 @@
+click
+rich
+black
+flake8
+pytest
+pytest-cov
+pygments
+gitpython
